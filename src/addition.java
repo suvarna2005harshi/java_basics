@@ -1,3 +1,4 @@
+//addition of two numbers
 public class addition {
     public static void main(String[] args) {
         int num1 = 10;
@@ -6,3 +7,7 @@ public class addition {
         System.out.println("the sum is:" + sum);
     }
 }
+/*
+the sum is:30
+
+ */
